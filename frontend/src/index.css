@@ -3,6 +3,7 @@
 @theme {
   --color-primary: #222831;
   --color-secondary: #dfd0b8;
+  --color-tertiary: #393e46;
 }
 body {
   background-color: #393e46;
